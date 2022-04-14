@@ -1,0 +1,3 @@
+To represent relationships between classes and objects associations and links are used
+Associations represent relationships between classes
+Links represent relationships between objects

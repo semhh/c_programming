@@ -1,0 +1,4 @@
+3
+Arcelik 251.0 3
+Vestel 355.99 2
+Beko 410.59 5
